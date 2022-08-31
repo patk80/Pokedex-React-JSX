@@ -1,0 +1,9 @@
+.Album-container {
+    text-align: center;
+    border: 2px solid black;
+    margin: 1rem;
+}
+
+.Album-artwork {
+    width: 50%;
+}

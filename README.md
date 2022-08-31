@@ -1,2 +1,2 @@
-# Pokedex-React-JSX
-Pokedex React JSX
+# pokedex-react-jsx
+pokedex react jsx

@@ -1,7 +1,5 @@
 .Album-container {
     text-align: center;
-}
-
-.Album-artwork {
-    width: 50%;
+    padding: 50px;
+    background-color: red;
 }

@@ -11,13 +11,13 @@ root.render(
     <div className='container'>
       <div className='row'>
         <div className='col-md-4'>
-          <Card />
+          <AlbumCard />
         </div>
         <div className='col-md-4'>
-          <Card />
+          <AlbumCard />
         </div>
         <div className='col-md-4'>
-          <Card />
+          <AlbumCard />
         </div>
       </div>
     </div>
